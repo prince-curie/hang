@@ -64,7 +64,7 @@ Once the server is running, you can access the API endpoint.
 
 ## API Endpoint
 
-**`GET /api/details`**
+**`GET https://hang-o6gj.onrender.com/api/profile`**
 
 Returns the following JSON response:
 
